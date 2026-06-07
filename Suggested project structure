@@ -1,0 +1,9 @@
+RedirectHawk/
+│
+├── redirecthawk.py
+├── requirements.txt
+├── README.md
+├── LICENSE
+├── targets.txt
+└── screenshots/
+    └── demo.png
