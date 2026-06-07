@@ -23,8 +23,7 @@ pip install -r requirements.txt
 
 ## Usage
 
-python redirecthawk.py -l targets.txt
-
+python ultimate_redirect_hunter_prod.py -l targets.txt -t testfire.net --delay 0.5 -v
 ## Disclaimer
 
 Use only on systems you own or have explicit authorization to test.
